@@ -15,8 +15,6 @@
 📄 Know about my experiences [## 💻 Technical Experience - Flutter & Android Development Built multiple cross-platform mobile apps with Flutter, focusing on clean architecture and scalable code. - Git & GitHub Experienced in version control, branching strategies, pull requests, and collaborative workflows. - Firebase & Backend Integration Integrated apps with Firebase Auth, Firestore, and Cloud Functions. - UI/UX Implementation Designed intuitive and responsive user interfaces, following best practices for user experience. ## 🧠 Soft Skills - Problem Solving & Logical Thinking - Team Collaboration & Communication - Time Management & Productivity](## 💻 Technical Experience - Flutter & Android Development Built multiple cross-platform mobile apps with Flutter, focusing on clean architecture and scalable code. - Git & GitHub Experienced in version control, branching strategies, pull requests, and collaborative workflows. - Firebase & Backend Integration Integrated apps with Firebase Auth, Firestore, and Cloud Functions. - UI/UX Implementation Designed intuitive and responsive user interfaces, following best practices for user experience. ## 🧠 Soft Skills - Problem Solving & Logical Thinking - Team Collaboration & Communication - Time Management & Productivity
 
 
-# Book App  - Flutter App
->>>>>>> c1c92dab993ce46eef5674c4e2de9675e9de9571
 
 ## 📱 نظرة عامة
 
