@@ -1,14 +1,43 @@
-# Book App  - Flutter App
+# Books App  - Flutter App
+
+🔭 I’m currently working on Building mobile apps with Flutter
+
+🌱 I’m currently learning Advanced Flutter • Clean Architecture • State Management
+
+👯 I’m looking to collaborate on Flutter & Mobile App Projects
+
+👨‍💻 All of my projects are available at https://github.com/ahmedhamada202113227-maker
+
+💬 Ask me about Flutter, Android, Mobile App Development
+
+📫 How to reach me ahmedhamada202113227@gmail.com
+
+📄 Know about my experiences [## 💻 Technical Experience - Flutter & Android Development Built multiple cross-platform mobile apps with Flutter, focusing on clean architecture and scalable code. - Git & GitHub Experienced in version control, branching strategies, pull requests, and collaborative workflows. - Firebase & Backend Integration Integrated apps with Firebase Auth, Firestore, and Cloud Functions. - UI/UX Implementation Designed intuitive and responsive user interfaces, following best practices for user experience. ## 🧠 Soft Skills - Problem Solving & Logical Thinking - Team Collaboration & Communication - Time Management & Productivity](## 💻 Technical Experience - Flutter & Android Development Built multiple cross-platform mobile apps with Flutter, focusing on clean architecture and scalable code. - Git & GitHub Experienced in version control, branching strategies, pull requests, and collaborative workflows. - Firebase & Backend Integration Integrated apps with Firebase Auth, Firestore, and Cloud Functions. - UI/UX Implementation Designed intuitive and responsive user interfaces, following best practices for user experience. ## 🧠 Soft Skills - Problem Solving & Logical Thinking - Team Collaboration & Communication - Time Management & Productivity
+
 
 ## 📱 نظرة عامة
-تطبيق موبايل متكامل لمساعدة المستخدمين على القراءة و سهولة الوصول للكتب من خلال:
-<!-- - تتبع يومي للتقدم
-- رسائل تحفيزية منتظمة
-- تقويم شهري للأيام الناجحة
-- تتبع الصلوات الخمس
-- مذكرات شخصية
-- نظام مكافآت محفز
-- إعدادات قابلة للتخصيص -->
+
+📚 Books App
+
+Book App is a modern mobile application designed for book lovers to explore, manage, and track their reading journey.
+The app focuses on simplicity, usability, and performance, allowing users to browse books, save favorites, and organize their reading lists efficiently.
+
+Built with Flutter and MVVM architecture, the app provides a clean, maintainable, and scalable codebase suitable for both learning and professional use.
+
+🚀 Features
+
+🔍 Browse and search books by title, author, or genre
+
+❤️ Save favorite books for quick access
+
+📚 Manage a personal reading list
+
+📝 View book details (description, author, rating)
+
+📊 Track reading progress and stats
+
+📱 Responsive and intuitive UI
+
 
 ## 🏗️ البنية المعمارية
 التطبيق مبني على نمط **MVVM** (Model-View-ViewModel):
@@ -43,20 +72,21 @@ flutter devices
 
 ## 📦 الحزم المستخدمة
 
-| الحزمة | الإصدار |
-|--------|---------|-----------|
-| cached_network_image | ^3.4.1 |
-| shared_preferences | ^2.2.2 |
-| intl | ^0.18.1 |
-| dartz | ^0.10.1 |
-| flutter_bloc | ^8.1.6 |
-| flutter_svg | ^2.0.10+1 |
-| get_it | ^8.0.2 |
-| go_router | ^14.6.1 |
-| hive | ^2.2.3 |
-| loading_indicator | ^3.1.1 |
-| smooth_page_indicator | ^1.2.0+3 | 
-| flutter_custom_clippers | ^2.1.0 | 
+| الحزمة |
+|--------|
+| cached_network_image |
+| shared_preferences |
+| intl |
+| dartz |
+| flutter_bloc |
+| flutter_svg |
+| get_it |
+| go_router |
+| hive |
+| font_awesome_flutter |
+| loading_indicator |
+| smooth_page_indicator |
+| flutter_custom_clippers |
 
 
 ## 📱 الشاشات
