@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Books App  - Flutter App
 
 🔭 I’m currently working on Building mobile apps with Flutter
